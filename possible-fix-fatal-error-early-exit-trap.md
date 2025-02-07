@@ -6,7 +6,7 @@ I recently came across a very annoying problem, which I did not find any solutio
 
 Today I want to record what I did to solve this problem and I hope to help you who are going through the same situation that I also went through.
 
-https://i.ibb.co/ynkRQc1Z/9defb65acd96f6eb72b732013be7e4925eee8082.png
+<img src="https://i.ibb.co/ynkRQc1Z/9defb65acd96f6eb72b732013be7e4925eee8082.png">
 
 ---
 
@@ -43,7 +43,7 @@ And finally I restarted the PC.
 When I turned it on I located the file `CitizenFX.ini` in the directory `C:\Users\%userprofile%\AppData\Local\FiveM\FiveM.app` and added the following line:
 - `PathCL2=D:\SteamLibrary\steamapps\common\Grand Theft Auto V`
 
-https://i.ibb.co/Vc7L06mt/image.png
+<img src="https://i.ibb.co/Vc7L06mt/image.png">
 
 - Which in the image above is located on line 7.
 
